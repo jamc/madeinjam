@@ -19,7 +19,7 @@
     }(document, 'script', 'facebook-jssdk'));</script>
 
     <div class="row">
-      <div class="large-12 columns">
+      <div class="large-12 columns" style="text-align: center;">
         <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         <!-- Made In JAM Header -->
         <ins class="adsbygoogle"
@@ -83,6 +83,12 @@
 
     <div class="row">
       <div class="large-12 columns">
+        <a style="text-align: center; display: block; margin: auto; font-size: 14px; margin-bottom: 50px;" href="mailto:jam@madeinjam.com">Cont&aacute;ctame</a>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="large-12 columns" style="text-align: center;">
         <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         <!-- Made In JAM Footer -->
         <ins class="adsbygoogle"
