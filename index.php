@@ -3,24 +3,44 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title><?php echo $_GET['titulo']; ?> - Made In JAM</title>
+    <title>Made In JAM</title>
 
     <!-- for Google -->
-    <meta name="description" content="<?php echo $_GET['titulo']; ?> - escucha el audio en Made in JAM" />
+    <meta name="description" content="Recopilaci&oacute;n de audios del famoso orador Salvaodr Valadez." />
     <meta name="keywords" content="salvador,valadez,recuperacion,alcoholismo,grupo,12 pasos,jam,madeinjam,made in jam" />
 
     <meta name="author" content="JAM <jam<@madeinjam.com>" />
-    <meta name="application-name" content="<?php echo $_GET['titulo']; ?> - Made In JAM" />
+    <meta name="application-name" content="Made In JAM" />
 
     <!-- for Facebook -->          
-    <meta property="og:title" content="<?php echo $_GET['titulo']; ?> - Made In JAM" />
+    <meta property="og:title" content="Made In JAM" />
     <meta property="og:type" content="website" />
     <meta property="og:image" content="http://madeinjam.com/images/logo_jam.png" />
-    <meta property="og:url" content="http://www.madeinjam.com/escuchar.php?audio=<?php echo $_GET['audio']; ?>&titulo=<?php echo $_GET['titulo']; ?>&link=<?php echo $_GET['link']; ?>" />
-    <meta property="og:description" content="<?php echo $_GET['titulo']; ?> - escucha el audio en Made in JAM" />
+    <meta property="og:url" content="http://madeinjam.com" />
+    <meta property="og:description" content="Recopilaci&oacute;n de audios del famoso orador Salvaodr Valadez." />
 
-    <link rel="stylesheet" href="css/app.css" />
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+    <link rel="stylesheet" href="css/app.css" />
+    <style>
+      table tr, table td {
+        height: 10px;
+      }
+      table tr td a {
+        height: 100%;
+        width: 100%;
+        display: block;
+        text-align: center;
+        position: relative;
+      }
+      table tr td a img {
+        display: block;
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        margin-top: -10px;
+        margin-left: -10px;
+      }
+    </style>
     <script src="bower_components/modernizr/modernizr.js"></script>
   </head>
   <body>
@@ -69,30 +89,36 @@
     <div class="row">
       <div class="large-12 columns">
         <ul class="breadcrumbs">
-          <li><a href="index.php">Inicio</a></li>
-          <li class="current"><a href="#"><?php echo $_GET['titulo']; ?></a></li>
+          <li><a href="#">Inicio</a></li>
         </ul>
       </div>
     </div>
 
+
     <div class="row">
       <div class="large-12 columns">
-        <h3><?php echo $_GET['titulo']; ?></h3>
+        <dl class="tabs" data-tab>
+          <dd class="active"><a href="#panel2-1">12 Pasos</a></dd>
+          <dd><a href="#panel2-2">Congresos</a></dd>
+          <dd><a href="#panel2-3">Cambios</a></dd>
+        </dl>
+        <div class="tabs-content">
+          <div class="content active" id="panel2-1">
+            <?php require_once 'categorias/12pasos.php'; ?>            
+          </div>
+          <div class="content" id="panel2-2">
+            <?php require_once 'categorias/congresos.php'; ?> 
+          </div>
+          <div class="content" id="panel2-3">
+            <?php require_once 'categorias/cambios.php'; ?> 
+          </div>
+        </div>
       </div>
     </div>
 
     <div class="row">
       <div class="large-12 columns">
-        <a href="http://yourlisten.com/jacjam/<?php echo $_GET['link']; ?>" id="yl<?php echo $_GET['audio']; ?>">
-          <?php echo $_GET['titulo']; ?>
-        </a>
-        <script src="http://yourlisten.com/embed.js?<?php echo $_GET['audio']; ?>" type="text/javascript" async autoplay></script>
-      </div>
-    </div>
-
-    <div class="row">
-      <div class="large-12 columns">
-        <div class="fb-comments" data-href="http://www.madeinjam.com/escuchar.php?audio=<?php echo $_GET['audio']; ?>&titulo=<?php echo $_GET['titulo']; ?>&link=<?php echo $_GET['link']; ?>" data-numposts="15" data-colorscheme="light" data-width="970"></div>
+        <a style="text-align: center; display: block; margin: auto; font-size: 28px; margin-bottom: 50px;" href="http://www.mediafire.com/?9kl2qc20y545o" target="_blank">Link a MediaFire (Antiguo Sitio)</a>
       </div>
     </div>
 
@@ -134,4 +160,3 @@
 
   </body>
 </html>
-
