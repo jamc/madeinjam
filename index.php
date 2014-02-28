@@ -6,7 +6,7 @@
     <title>Made In JAM</title>
 
     <!-- for Google -->
-    <meta name="description" content="Recopilaci&oacute;n de audios del famoso orador Salvaodr Valadez." />
+    <meta name="description" content="Recopilaci&oacute;n de audios del famoso orador Salvador Valadez." />
     <meta name="keywords" content="salvador,valadez,recuperacion,alcoholismo,grupo,12 pasos,jam,madeinjam,made in jam" />
 
     <meta name="author" content="JAM <jam<@madeinjam.com>" />
@@ -17,7 +17,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:image" content="http://madeinjam.com/images/logo_jam.png" />
     <meta property="og:url" content="http://madeinjam.com" />
-    <meta property="og:description" content="Recopilaci&oacute;n de audios del famoso orador Salvaodr Valadez." />
+    <meta property="og:description" content="Recopilaci&oacute;n de audios del famoso orador Salvador Valadez." />
 
     <meta property="fb:app_id" content="500570766632503"/>
     <meta property="fb:admins" content="717240601"/>
