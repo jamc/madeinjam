@@ -19,6 +19,8 @@
     <meta property="og:url" content="http://madeinjam.com" />
     <meta property="og:description" content="Recopilaci&oacute;n de audios del famoso orador Salvaodr Valadez." />
 
+    <meta property="fb:app_id" content="500570766632503"/>
+    <meta property="fb:admins" content="717240601"/>
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <link rel="stylesheet" href="css/app.css" />
     <style>

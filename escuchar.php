@@ -21,6 +21,8 @@
 
     <link rel="stylesheet" href="css/app.css" />
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+    <meta property="fb:app_id" content="500570766632503"/>
+    <meta property="fb:admins" content="717240601"/>
     <script src="bower_components/modernizr/modernizr.js"></script>
   </head>
   <body>
