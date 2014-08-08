@@ -7,7 +7,7 @@
 
     <!-- for Google -->
     <meta name="description" content="Recopilaci&oacute;n de audios del famoso orador Salvador Valadez." />
-    <meta name="keywords" content="salvador,valadez,recuperacion,alcoholismo,grupo,12 pasos,jam,madeinjam,made in jam" />
+    <meta name="keywords" content="audios,salvador,valadez,recuperacion,alcoholismo,grupo,12 pasos,jam,madeinjam,made in jam" />
 
     <meta name="author" content="JAM <jam<@madeinjam.com>" />
     <meta name="application-name" content="Made In JAM" />
@@ -102,7 +102,8 @@
         <dl class="tabs" data-tab>
           <dd class="active"><a href="#panel2-1">12 Pasos</a></dd>
           <dd><a href="#panel2-2">Congresos</a></dd>
-          <dd><a href="#panel2-3">Cambios</a></dd>
+	      <dd><a href="#panel2-3">Otros</a></dd>
+          <dd><a href="#panel2-4">Cambios</a></dd>
         </dl>
         <div class="tabs-content">
           <div class="content active" id="panel2-1">
@@ -112,6 +113,9 @@
             <?php require_once 'categorias/congresos.php'; ?> 
           </div>
           <div class="content" id="panel2-3">
+  	        <?php require_once 'categorias/otros.php'; ?>
+          </div>
+          <div class="content" id="panel2-4">
             <?php require_once 'categorias/cambios.php'; ?> 
           </div>
         </div>

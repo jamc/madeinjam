@@ -1,4 +1,14 @@
 <div style="margin: auto; display: block; width: 458px;">
+	<h4>07 - Agosto - 2014</h4>
+	<h5>Audios Agregados a 'Otros'</h5>
+	<ul>
+		<li>Celebrando la Vida</li>
+		<li>Desprendimiento Emocional</li>
+		<li>Autosabotaje</li>
+	</ul>
+</div>
+<hr />
+<div style="margin: auto; display: block; width: 458px;">
   <h4>27 - Febrero - 2014</h4>
   <h5>Audios Agregados a 'Congresos'</h5>
   <ul>
