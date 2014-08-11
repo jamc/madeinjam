@@ -1,4 +1,16 @@
 <div style="margin: auto; display: block; width: 458px;">
+  <h4>11 - Agosto - 2014</h4>
+  <h5>Audios Agregados a 'Otros'</h5>
+  <ul>
+    <li>Abandono Emocional</li>
+    <li>Buscando la Libertad</li>
+    <li>Cicatrizando las Heridas de la Infancia</li>
+    <li>Conciencia y Aceptación</li>
+    <li>Neurosis</li>
+  </ul>
+</div>
+<hr />
+<div style="margin: auto; display: block; width: 458px;">
 	<h4>07 - Agosto - 2014</h4>
 	<h5>Audios Agregados a 'Otros'</h5>
 	<ul>
