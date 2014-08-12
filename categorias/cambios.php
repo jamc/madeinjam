@@ -1,4 +1,17 @@
 <div style="margin: auto; display: block; width: 458px;">
+  <h4>12 - Agosto - 2014</h4>
+  <h5>Audios Agregados a 'Otros'</h5>
+  <ul>
+    <li>Diferencia Entre Religión y Espiritualidad</li>
+    <li>El Duelo</li>
+    <li>El Enojo</li>
+    <li>Hablando con Dios</li>
+    <li>Infidelidad</li>
+    <li>La Mujer Como Individuo</li>
+  </ul>
+</div>
+<hr />
+<div style="margin: auto; display: block; width: 458px;">
   <h4>11 - Agosto - 2014</h4>
   <h5>Audios Agregados a 'Otros'</h5>
   <ul>

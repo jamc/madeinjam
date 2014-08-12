@@ -65,6 +65,54 @@
 	    </td>
     </tr>
     <tr>
+      <td>Diferencia Entre Religión y Espiritualidad</td>
+      <td>Salvador Valadez hablando sobre la diferencia entre la religión y la espiritualidad.</td>
+      <td>00:50:04</td>
+      <td>
+        <a href="escuchar.php?audio=17182072&titulo=Diferencia Entre Religión y Espiritualidad&link=diferencia-entre-religin-y-espiritualidad"><img src="images/play.png" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td>El Duelo</td>
+      <td>Salvador Valadez hablando sobre el duelo.</td>
+      <td>01:15:40</td>
+      <td>
+        <a href="escuchar.php?audio=17182535&titulo=El Duelo&link=el-duelo"><img src="images/play.png" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td>El Enojo</td>
+      <td>Salvador Valadez hablando sobre el enojo.</td>
+      <td>01:17:06</td>
+      <td>
+        <a href="escuchar.php?audio=17182538&titulo=El Enojo&link=el-duelo"><img src="images/play.png" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td>Hablando con Dios</td>
+      <td>Salvador Valadez hablando sobre como hablar con Dios.</td>
+      <td>01:15:03</td>
+      <td>
+        <a href="escuchar.php?audio=17182540&titulo=Hablando con Dios&link=hablando-con-dios"><img src="images/play.png" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td>Infidelidad</td>
+      <td>Salvador Valadez hablando sobre la infidelidad.</td>
+      <td>01:18:02</td>
+      <td>
+        <a href="escuchar.php?audio=17182541&titulo=Infidelidad&link=infidelidad"><img src="images/play.png" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td>La Mujer Como Individuo</td>
+      <td>Salvador Valadez hablando sobre la mujer como individuo.</td>
+      <td>01:16:50</td>
+      <td>
+        <a href="escuchar.php?audio=17182542&titulo=La Mujer Como Individuo&link=la-mujer-como-individuo"><img src="images/play.png" /></a>
+      </td>
+    </tr>
+    <tr>
       <td>Neurosis</td>
       <td>Salvador Valadez hablando sobre la neurosis.</td>
       <td>01:03:18</td>
