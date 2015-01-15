@@ -1,4 +1,13 @@
 <div style="margin: auto; display: block; width: 458px;">
+	<h4>14 - Enero - 2015</h4>
+	<h5>Audios Agregados a 'Otros'</h5>
+	<ul>
+		<li>El Sexo Como Arma 1</li>
+		<li>El Sexo Como Arma 2</li>
+	</ul>
+</div>
+<hr />
+<div style="margin: auto; display: block; width: 458px;">
   <h4>12 - Agosto - 2014</h4>
   <h5>Audios Agregados a 'Otros'</h5>
   <ul>

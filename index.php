@@ -90,6 +90,12 @@
 
     <div class="row">
       <div class="large-12 columns">
+        <h4>Para poder mantener el sitio en l&iacute;nea, por favor escucha los audios desde aqu&iacute; y no bloquees los anuncios. ¡Gracias!</h4>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="large-12 columns">
         <ul class="breadcrumbs">
           <li><a href="#">Inicio</a></li>
         </ul>

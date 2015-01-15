@@ -89,6 +89,22 @@
       </td>
     </tr>
     <tr>
+      <td>El Sexo Como Arma 1</td>
+      <td>Salvador Valadez hablando sobre el sexo como arma.</td>
+      <td>01:12:11</td>
+      <td>
+          <a href="escuchar.php?audio=17268410&titulo=El Sexo Como Arma 1&link=el-sexo-como-arma-1"><img src="images/play.png" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td>El Sexo Como Arma 2</td>
+      <td>Salvador Valadez hablando sobre el sexo como arma.</td>
+      <td>00:18:48</td>
+      <td>
+          <a href="escuchar.php?audio=17268412&titulo=El Sexo Como Arma 2&link=el-sexo-como-arma-2"><img src="images/play.png" /></a>
+      </td>
+    </tr>
+    <tr>
       <td>Hablando con Dios</td>
       <td>Salvador Valadez hablando sobre como hablar con Dios.</td>
       <td>01:15:03</td>
