@@ -90,7 +90,26 @@
 
     <div class="row">
       <div class="large-12 columns">
-        <h4>Para poder mantener el sitio en l&iacute;nea, por favor escucha los audios desde aqu&iacute; y no bloquees los anuncios. ¡Gracias!</h4>
+        <h5>Para poder mantener el sitio en l&iacute;nea, por favor escucha los audios desde aqu&iacute; y no bloquees los anuncios.</h5>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="large-8 columns">
+        <h5>
+          Tambi&eacute;n puedes donar por medio de Paypal con tarjeta de cr&eacute;dito o d&eacute;bito.
+        </h5>
+        <h5>
+          ¡Gracias!
+        </h5>
+      </div>
+      <div class="large-4 columns">
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" style="display: block; margin: auto;">
+          <input type="hidden" name="cmd" value="_s-xclick">
+          <input type="hidden" name="hosted_button_id" value="DETJ3APKHWQ2C">
+          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+        </form>
       </div>
     </div>
 
